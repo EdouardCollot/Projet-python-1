@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Je suis un métal précieux. On m'utilise pour faire des bijoux. Qui suis-je ?",
+        "reponse": "or"
+    },
+    {
+        "question": "Je suis une planète du système solaire. La plus proche du soleil. Qui suis-je ?",
+        "reponse": "mercure"
+    },
+    {
+        "question": "J'ai des ailes mais je ne vole pas. On me trouve dans les chaussures. Qui suis-je ?",
+        "reponse": "lacets"
+    }
+]
