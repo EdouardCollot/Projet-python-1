@@ -1,0 +1,16 @@
+{
+    "2023": [
+        {
+            "indices": ["jaune", "métal", "précieux"],
+            "mot_code": "or"
+        },
+        {
+            "indices": ["planète", "soleil", "proche"],
+            "mot_code": "mercure"
+        },
+        {
+            "indices": ["chaussure", "aile", "lacet"],
+            "mot_code": "lacets"
+        }
+    ]
+}
